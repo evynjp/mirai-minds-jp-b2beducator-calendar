@@ -1,0 +1,123 @@
+BEGIN:VEVENT
+UID:twis-prek-school-tour-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:[P3][OUTREACH] Tokyo West International School - PreK/K School Tour
+LOCATION:Tokyo West International School\, Hachioji\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Tour starts 13:30.
+URL:https://www.tokyowest.jp/admission/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:asij-open-house-series-2026-27
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+RDATE;VALUE=DATE:20261015,20261105,20261119,20261203,20270107,20270121,20270218
+SUMMARY:[P1][OUTREACH] American School in Japan - Open House
+LOCATION:The American School in Japan\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Official 2026-27 open-house series\; admissions-focused.
+URL:https://www.asij.ac.jp/admissions/admissions-visits
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku-pyp-info-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[P2][OUTREACH] Tohoku International School - PYP Info Night
+LOCATION:Tohoku International School\, Sendai\, Miyagi\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: PYP curriculum and admissions focus.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ois-online-info-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[P3][OUTREACH] Okinawa International School - Online Information Session
+LOCATION:Online
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ois-nanjo-open-campus-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[P2][OUTREACH] Okinawa International School - Nanjo Open Campus
+LOCATION:Okinawa International School Nanjo Campus\, Okinawa\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 09:00.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:horizon-sendai-trial-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[P2][OUTREACH] Horizon Sendai - Trial Lesson & Parent Information Session
+LOCATION:Horizon Sendai\, Sendai\, Miyagi\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: School briefing plus English-immersion trial activities for young learners.
+URL:https://sendai.horizon.ac.jp/openhouse.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ctis-kindergarten-info-series-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+RDATE;VALUE=DATE:20261114,20261212
+SUMMARY:[P2][OUTREACH] Capital Tokyo International School - Kindergarten Information Sessions
+LOCATION:Shibuya Sakura Stage\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two sessions listed at 10:30 and 14:00 on each date.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bunka-suginami-info-series-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+RDATE;VALUE=DATE:20261128,20261205
+SUMMARY:[P3][OUTREACH] Bunka Suginami Canadian International School - Admissions Session
+LOCATION:Bunka Gakuen University Suginami High School\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Canadian double-diploma / international pathway focus\; Oct 17 and Nov 28 are general sessions\, Dec 5 is one-on-one consultation.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:giis-gmp-diwali-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[P2][OUTREACH] GIIS Tokyo GMP Open House & Diwali Night
+LOCATION:GIIS Tokyo SSD Campus\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Early-years Global Montessori Programme and community event.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tohoku-open-school-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:[P2][OUTREACH] Tohoku International School Open School
+LOCATION:Tohoku International School\, Sendai\, Miyagi\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
