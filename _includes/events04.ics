@@ -1,0 +1,120 @@
+BEGIN:VEVENT
+UID:matsuyama-empathy-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261212T140000
+DTEND;TZID=Asia/Tokyo:20261212T160000
+SUMMARY:[P3][ELT] Empathy-Building in the EFL Classroom
+LOCATION:Ehime Prefecture International Center\, Matsuyama\, Ehime\, Japan
+DESCRIPTION:Category: ELT / Teacher Development\nMirai Minds significance: Useful classroom-practice professional development and regional networking.\nAction: Optional attendance.
+URL:https://jalt.org/events/category/matsuyama/list/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okinawa-jalt-dec-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261227T090000
+DTEND;TZID=Asia/Tokyo:20261229T170000
+SUMMARY:[P2][ELT] Okinawa JALT International Conference on Trends in Language Teaching
+LOCATION:Naha City\, Okinawa\, Japan
+DESCRIPTION:Category: ELT / Language / Culture / Education\nMirai Minds significance: Regional network and potential Okinawa market entry.\nAction: Attend if Okinawa expansion is a priority.
+URL:https://events.jalt.org/event/94/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jalt-assessment-2027
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:[P3][ELT] JALT Assessment Event - Assessment Decisions You Can Defend
+LOCATION:Japan / details via JALT
+DESCRIPTION:Category: Assessment / Language Education\nMirai Minds significance: Useful for evidence-based assessment design in English programs.\nAction: Monitor details and attend selectively.
+URL:https://events.jalt.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sutlf-11-2027
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270213
+SUMMARY:[P2][ELT+AI] SUTLF 11: Human Voices in a Digital Age
+LOCATION:Sojo University\, Kumamoto\, Japan
+DESCRIPTION:Category: AI / Language Education / Communication\nMirai Minds significance: Strong intersection of digital-age education and language learning.\nAction: Attend for AI/ELT intelligence and Kyushu networking.
+URL:https://events.jalt.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:matsuyama-media-2027
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20270220T140000
+DTEND;TZID=Asia/Tokyo:20270220T160000
+SUMMARY:[P3][ELT] The Same Story\, Different Worlds
+LOCATION:Matsuyama\, Ehime\, Japan
+DESCRIPTION:Category: Language / Media / Intercultural Communication\nMirai Minds significance: Useful teacher-development and intercultural-learning content.\nAction: Optional attendance.
+URL:https://jalt.org/events/category/matsuyama/list/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-tokyo-2027
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+SUMMARY:[P1][BD] EDIX Tokyo 2027
+LOCATION:Tokyo Big Sight West Exhibition Halls\, Tokyo\, Japan
+DESCRIPTION:Category: BD / Education Expo / EdTech / STEAM\nMirai Minds significance: One of Japan's largest education-sector exhibitions.\nAction: Budget early and seriously consider exhibiting.
+URL:https://www.edix-expo.jp/tokyo/ja-jp/about.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pansig-2027
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270517
+SUMMARY:[P2][ELT] PanSIG 2027
+LOCATION:Ritsumeikan Asia Pacific University\, Beppu\, Oita\, Japan
+DESCRIPTION:Category: ELT / SLA / Professional Network\nMirai Minds significance: Broad language-teaching network useful for recruitment and curriculum intelligence.\nAction: Attend/network\; monitor sponsor information.
+URL:https://pansig.org/archive
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-education-expo-2027-session1
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+SUMMARY:[P1][EDTECH] NEW EDUCATION EXPO 2027 - Session 1
+LOCATION:Japan - venue TBA
+DESCRIPTION:Category: Education / EdTech / School Solutions\nMirai Minds significance: Major education seminar/exhibition ecosystem.\nAction: Hold dates and monitor venue/exhibitor details.
+URL:https://edu-expo.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-education-expo-2027-session2
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270613
+SUMMARY:[P1][EDTECH] NEW EDUCATION EXPO 2027 - Session 2
+LOCATION:Japan - venue TBA
+DESCRIPTION:Category: Education / EdTech / School Solutions\nMirai Minds significance: Second announced 2027 NEW EDUCATION EXPO session.\nAction: Hold dates and monitor venue/exhibitor details.
+URL:https://edu-expo.org/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jalt-2027-shizuoka
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271108
+SUMMARY:[P1][ELT] JALT 2027 International Conference
+LOCATION:GRANSHIP\, Shizuoka City\, Shizuoka\, Japan
+DESCRIPTION:Category: ELT / Language Education / Partnerships / Recruitment\nMirai Minds significance: Major annual language-teaching conference.\nAction: Reserve dates and monitor exhibitor/sponsor registration.
+URL:https://jalt.org/jalt-international-conference/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
