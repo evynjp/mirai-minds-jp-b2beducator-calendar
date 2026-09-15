@@ -1,0 +1,180 @@
+BEGIN:VEVENT
+UID:ib-japan-virtual-workshops-sep-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P2][IB] IB Professional Development Workshops - Japan Timezone
+LOCATION:Online / Japan Standard Time
+DESCRIPTION:Category: IB / Professional Development / International Schools\nPriority: P2\nMirai Minds significance: Official IB professional-development window relevant to international-school curriculum knowledge and relationship intelligence.\nRecommended action: Review workshop offerings and attend selectively.\nNote: Multiple workshops are offered during this window; one listed session (Agency, action and engagement) is cancelled, so verify the exact workshop before registering.
+URL:https://ibo.org/professional-development/find-events-and-workshops/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:japet-okayama-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY:[P1][EDTECH] JAPET&CEC 10th Education Seminar in Okayama
+LOCATION:Okayama Convention Center\, Okayama\, Japan
+DESCRIPTION:Category: AI / GIGA / Education DX / School Partnerships\nPriority: P1\nMirai Minds significance: Major school-ICT and education-DX seminar with MEXT-linked content, generative AI, inquiry learning and approximately 50 education-ICT exhibitors planned.\nRecommended action: Attend for school-leader contacts, AI/EdTech intelligence and partnership scouting.
+URL:https://www.japet.or.jp/edu-ict-seminar/2026-10-9-10-10-lines-okayama/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:design-for-all-enishi-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[P2][INTL SCHOOL] Design for All 2026 - UDL & MTSS in Action
+LOCATION:Enishi International School\, Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: International Schools / Inclusion / UDL / MTSS / Professional Learning\nPriority: P2\nMirai Minds significance: Japan-based professional-learning conference for international-school educators and leaders, with strong relevance to inclusive program design, multilingual learners and whole-school improvement.\nRecommended action: Attend for international-school networking and curriculum/program-development intelligence.
+URL:https://www.enishi.ac.jp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edogawa-robot-car-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[P3][STEAM] Edogawa Children's Future Center - Smart Robot Car Workshop
+LOCATION:Edogawa-ku\, Tokyo\, Japan
+DESCRIPTION:Category: STEAM / Robotics / Coding / Program Intelligence\nPriority: P3\nMirai Minds significance: Useful benchmarking for children's robotics and programming experiences relevant to Maker's Lab and STEAM program design.\nRecommended action: Observe/benchmark if useful for curriculum R&D; this is a child-facing public workshop rather than a B2B event.
+URL:https://www.city.edogawa.tokyo.jp/event/2610_robotcar.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:japet-saitama-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;TZID=Asia/Tokyo:20261016T103000
+DTEND;TZID=Asia/Tokyo:20261016T170000
+SUMMARY:[P1][EDTECH] Educational Solution Seminar 2026 in Saitama
+LOCATION:Royal Pines Hotel Urawa\, Saitama\, Japan
+DESCRIPTION:Category: AI / GIGA / Education DX / School ICT\nPriority: P1\nMirai Minds significance: Directly relevant to AI literacy and school technology; sessions include education DX, generative AI and Google for Education, plus corporate exhibits.\nRecommended action: Attend for partner scouting, school contacts and AI-in-education intelligence.
+URL:https://www.japet.or.jp/edu-ict-seminar/2026-10-16-fsl/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:japet-sendai-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[P2][EDTECH] Future-Making Education Seminar 2026 in Sendai
+LOCATION:Sendai\, Miyagi\, Japan
+DESCRIPTION:Category: Education DX / ICT / Regional School Network\nPriority: P2\nMirai Minds significance: Regional JAPET&CEC education-technology seminar useful for Tohoku school-network development and education-DX intelligence.\nRecommended action: Attend if building Tohoku relationships or AI/EdTech partnerships.
+URL:https://www.japet.or.jp/seminar-list/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:private-school-staff-seminar-sendai-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:[P2][SCHOOL MGMT] Private School Staff Seminar - Sendai
+LOCATION:Sendai Garden Palace\, Sendai\, Miyagi\, Japan
+DESCRIPTION:Category: Private Schools / School Management / Leadership\nPriority: P2\nMirai Minds significance: School-management professional development for staff expected to take future leadership roles in private-school corporations.\nRecommended action: Check attendance eligibility before planning; useful for understanding private-school management priorities and building institutional networks.
+URL:https://www.shigaku.go.jp/s_center_d_lsym.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:private-nursery-kanto-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+SUMMARY:[P2][EARLY YEARS] Kanto Private Nursery Research Conference 2026
+LOCATION:Tobu Hotel Levant Tokyo\, Kinshicho\, Tokyo\, Japan
+DESCRIPTION:Category: Early Years / Nursery Management / Professional Network\nPriority: P2\nMirai Minds significance: Concentrated early-years professional network with relevance to preschool and childcare partnerships.\nRecommended action: Check external/corporate attendance eligibility; strong early-years market-intelligence opportunity.
+URL:https://www.minpo-kanburo.com/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:affiliated-schools-summit-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;TZID=Asia/Tokyo:20261113T111000
+DTEND;TZID=Asia/Tokyo:20261114T124000
+SUMMARY:[P2][SCHOOL NETWORK] 31st Affiliated Schools Summit
+LOCATION:Waseda University Honjo Senior High School\, Honjo\, Saitama\, Japan
+DESCRIPTION:Category: Private Schools / School Leadership / Inquiry Learning\nPriority: P2\nMirai Minds significance: National gathering of private university-affiliated junior and senior high schools; useful for school-network expansion beyond formally international schools.\nRecommended action: Check participation route for non-member organizations; network around inquiry learning and school development.
+URL:https://fuzoku-summit.org/this-years-summit/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:japan-early-childhood-society-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[P2][EARLY YEARS] Japan Society of Early Childhood Education - 34th Conference
+LOCATION:Jissen Women's University Shibuya Campus\, Tokyo\, Japan
+DESCRIPTION:Category: Early Childhood Education / Research / Practice\nPriority: P2\nMirai Minds significance: Early-childhood research and practice conference relevant to preschool curriculum, teacher development and evidence-based programming.\nRecommended action: Attend selectively for curriculum R&D and educator connections; verify non-member registration conditions.
+URL:https://sites.google.com/view/jssce1992/%E5%A4%A7%E4%BC%9A%E6%83%85%E5%A0%B1
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hoiku-voice-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:[P2][EARLY YEARS] Hoiku Voice 2026
+LOCATION:Nihonbashi\, Tokyo\, Japan
+DESCRIPTION:Category: Early Years / Childcare / Educator Community / Exhibits\nPriority: P2\nMirai Minds significance: Childcare-professional gathering with presentations and exhibitor booths; useful for early-years sentiment, practitioner needs and partnership discovery.\nRecommended action: Attend for market intelligence and networking; assess future exhibitor opportunity.
+URL:https://hoikuvoice.jp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:private-school-leaders-tokyo-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[P2][SCHOOL MGMT] Private School Leaders Seminar - Tokyo
+LOCATION:Tokyo Garden Palace / Online\, Tokyo\, Japan
+DESCRIPTION:Category: Private Schools / Leadership / School Management\nPriority: P2\nMirai Minds significance: Leadership seminar for private-school corporation executives and school leaders; useful for understanding strategic and management concerns in the private-school sector.\nRecommended action: Check eligibility; use as senior-leadership market intelligence and potential relationship channel.
+URL:https://www.shigaku.go.jp/s_center_d_lsym.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:private-school-leaders-osaka-2026@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:[P2][SCHOOL MGMT] Private School Leaders Seminar - Osaka
+LOCATION:Osaka Garden Palace / Online\, Osaka\, Japan
+DESCRIPTION:Category: Private Schools / Leadership / School Management\nPriority: P2\nMirai Minds significance: Senior private-school management seminar and a useful window into Kansai school-leadership priorities.\nRecommended action: Check eligibility and monitor for relationship-building opportunities.
+URL:https://www.shigaku.go.jp/s_center_d_lsym.htm
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:education-dx-forum-2027@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:[P1][EDTECH] Education DX Promotion Forum 2026 FY
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Category: Education DX / ICT / AI / Schools / Policy\nPriority: P1\nMirai Minds significance: JAPET&CEC's Education DX forum brings together education-technology trends, school practice and related hardware/software; highly relevant to Mirai Minds' AI-literacy and technology partnerships.\nRecommended action: Reserve date and monitor venue/registration details.
+URL:https://www.japet.or.jp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ib-japan-virtual-workshops-apr-2027@mirai-minds
+DTSTAMP:20260915T021500Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:[P2][IB] IB Professional Development Workshops - Japan Timezone
+LOCATION:Online / Japan Standard Time
+DESCRIPTION:Category: IB / Professional Development / International Schools\nPriority: P2\nMirai Minds significance: Official IB professional-development window with PYP, MYP, DP and cross-program offerings, including inquiry, equitable/inclusive education and teacher competencies.\nRecommended action: Review offerings and attend selectively for international-school curriculum and leadership intelligence.
+URL:https://ibo.org/professional-development/find-events-and-workshops/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
