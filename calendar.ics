@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mirai Minds//Japan B2B Educator Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mirai Minds - Japan B2B Educator Calendar
+X-WR-CALDESC:Public calendar feed for Japan education, international school, ELT, EdTech, STEAM, and B2B events relevant to Mirai Minds.
+X-WR-TIMEZONE:Asia/Tokyo
+END:VCALENDAR
