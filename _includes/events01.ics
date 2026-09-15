@@ -1,0 +1,145 @@
+BEGIN:VEVENT
+UID:jclil-tohoku-webinar-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20260919T150000
+DTEND;TZID=Asia/Tokyo:20260919T174000
+SUMMARY:[P2][ELT] J-CLIL Tohoku Special Webinar
+LOCATION:Online (Zoom)
+DESCRIPTION:Category: ELT / CLIL / Bilingual Education\nMirai Minds sign
+ ificance: CLIL and bilingual teaching practice are directly relevant to
+  international-school and enrichment program design.\nAction: Attend fo
+ r curriculum intelligence and educator networking.
+URL:https://www.j-clil.com/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jset-autumn-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P2][EDTECH] JSET Autumn Conference 2026
+LOCATION:Sapporo City Education and Culture Hall\, Sapporo\, Hokkaido\, 
+ Japan
+DESCRIPTION:Category: EdTech / AI / Education Research\nMirai Minds sign
+ ificance: Major educational-technology conference with AI/education con
+ tent and corporate exhibition opportunities.\nAction: Attend for EdTech
+ /AI intelligence and partnership scouting.
+URL:https://www.jset.gr.jp/taikai49/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:yamagata-jalt-mini-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:[P3][ELT] Yamagata JALT Professional Development Mini Conference
+LOCATION:Yamagata\, Japan
+DESCRIPTION:Category: ELT / Teacher Development\nMirai Minds significanc
+ e: Regional educator network and professional-development intelligence.
+ \nAction: Consider for Tohoku outreach and teacher-network development.
+URL:https://jalt.org/events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:school-owners-kansai-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P1][BD] 9th School Owners' Conference - Kansai
+LOCATION:Kansai\, Japan
+DESCRIPTION:Category: BD / School Owners / Education Business\nMirai Min
+ ds significance: Direct access to independent school owners and operato
+ rs.\nAction: Attend and network\; pursue partnerships and school leads.
+URL:https://independentowners.jp/school-owners-conferences/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiles-icle-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P3][ELT] TILES 2026 / ICLE Collaboration
+LOCATION:Hirosaki\, Aomori\, Japan
+DESCRIPTION:Category: ELT / Global Education / Regional Network\nMirai M
+ inds significance: Useful for Tohoku educator connections and intercult
+ ural education intelligence.\nAction: Attend selectively if expanding i
+ n Tohoku.
+URL:https://jalt.org/events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edcamp-nagoya-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P3][EDUCATION] EdCamp Nagoya 2026
+LOCATION:Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: Teacher Network / Education Innovation\nMirai Mind
+ s significance: Grassroots access to teachers and education practitione
+ rs in Tokai.\nAction: Relationship building\; avoid hard selling.
+URL:https://jalt.org/events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:okinawa-jalt-global-summit-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:[P2][ELT] Okinawa JALT Global Summit 2026
+LOCATION:Naha City\, Okinawa\, Japan
+DESCRIPTION:Category: ELT / Innovation / Regional Network\nMirai Minds s
+ ignificance: Strong entry point into Okinawa's language-education netwo
+ rk.\nAction: Attend if Okinawa expansion is a priority.
+URL:https://events.jalt.org/event/95/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jclil-annual-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261010T100000
+DTEND;TZID=Asia/Tokyo:20261010T170000
+SUMMARY:[P2][ELT] J-CLIL 9th Annual Bilingual Conference
+LOCATION:Fukuoka University of Education\, Fukuoka\, Japan
+DESCRIPTION:Category: CLIL / Bilingual Education\nMirai Minds significan
+ ce: Strong fit with English-through-content\, Cambridge-style and inter
+ national-school programming.\nAction: Attend for curriculum development
+ \, partnerships and educator recruitment.
+URL:https://www.j-clil.com/schedule
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cue-gale-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:[P3][ELT] JALT CUE + GALE SIG Conference 2026
+LOCATION:Kanazawa Institute of Technology\, Ishikawa\, Japan
+DESCRIPTION:Category: ELT / Equity / Identity / Learner Agency\nMirai Mi
+ nds significance: Useful professional network and pedagogy intelligence
+ .\nAction: Attend selectively.
+URL:https://events.jalt.org/event/85/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jasal-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[P3][ELT] JASAL 2026 National Conference
+LOCATION:Osaka Institute of Technology\, Omiya Campus\, Osaka\, Japan
+DESCRIPTION:Category: Self-Access Learning / Learner Autonomy\nMirai Min
+ ds significance: Useful for learner-autonomy and program-design ideas.\
+ nAction: Attend selectively.
+URL:https://jasalorg.com/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
