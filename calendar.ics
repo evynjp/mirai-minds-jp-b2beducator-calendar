@@ -6,4 +6,162 @@ METHOD:PUBLISH
 X-WR-CALNAME:Mirai Minds - Japan B2B Educator Calendar
 X-WR-CALDESC:Public calendar feed for Japan education, international school, ELT, EdTech, STEAM, and B2B events relevant to Mirai Minds.
 X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:jset-autumn-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+SUMMARY:[P2][EDTECH] JSET Autumn Conference 2026
+LOCATION:Sapporo City Education and Culture Hall\, Sapporo\, Hokkaido\, Japan
+DESCRIPTION:Category: AI / EdTech / Education Research\nPriority: P2\nMirai Minds significance: Major educational-technology conference with AI/education content and corporate exhibition/advertising opportunities.\nRecommended action: Attend for EdTech/AI intelligence and partnership scouting.
+URL:https://www.jset.gr.jp/taikai49/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-osaka-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:[P1][BD] EDIX Osaka 2026
+LOCATION:Grand Cube Osaka\, Osaka\, Japan
+DESCRIPTION:Category: BD / Education Expo / EdTech / STEAM\nPriority: P1\nMirai Minds significance: West Japan education trade show connecting education providers with schools and other education-sector decision-makers.\nRecommended action: Attend\; investigate exhibition and partnership opportunities.
+URL:https://www.edix-expo.jp/osaka/ja-jp/about.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jaet-national-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:[P2][EDTECH] JAET National Conference 2026
+LOCATION:Kochi University of Technology\, Kami\, Kochi\, Japan
+DESCRIPTION:Category: EdTech / Education DX / Inquiry Learning\nPriority: P2\nMirai Minds significance: National educational-technology conference focused on education DX and inquiry learning\, relevant to AI/STEAM and school partnerships.\nRecommended action: Attend selectively\; scout technology and school-network opportunities.
+URL:https://jaet.jp/annual/2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taip-fall-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[P1][INTL SCHOOL] TAIP Fall Conference 2026
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Category: International Schools / Early Years\nPriority: P1\nMirai Minds significance: Highly targeted network for international preschools and kindergartens in Japan.\nRecommended action: Attend and investigate organizational/partner participation. Venue details to be confirmed by organizer.
+URL:https://tokyopreschools.org/news/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:child-edu-care-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:[P1][BD] Child Edu & Care 2026
+LOCATION:Tokyo Metropolitan Industrial Trade Center HAMAMATSUCHO-KAN\, Tokyo\, Japan
+DESCRIPTION:Category: BD / Early Years / International Schools / After-School\nPriority: P1\nMirai Minds significance: B2B childcare and education trade fair whose target visitors include private elementary schools\, international schools and after-school facilities.\nRecommended action: Investigate exhibiting\; prioritize decision-maker networking and lead generation.
+URL:https://hoikuhaku.jp.messefrankfurt.com/tokyo/en.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jalt-2026-nagoya@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:[P1][ELT] JALT 2026 International Conference
+LOCATION:WINC Aichi\, Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: ELT / Language Education / Partnerships / Recruitment\nPriority: P1\nMirai Minds significance: Major language-teaching conference and Educational Materials Exhibition\; strong fit for English programs\, teacher recruitment\, curriculum and partnerships.\nRecommended action: Attend\; investigate sponsor/exhibitor opportunities.
+URL:https://events.jalt.org/event/73/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tisa-fair-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:[P1][INTL SCHOOL] TISA International Education Fair 2026
+LOCATION:Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: International Schools / Tokai Region\nPriority: P1\nMirai Minds significance: International schools from across the Tokai region come together\, creating a concentrated school-network opportunity.\nRecommended action: Contact organizer about professional/partner participation\; use as a Tokai school-mapping and outreach opportunity.
+URL:https://www.nis.ac.jp/admissions/admissions-events
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-fukuoka-2026@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:[P1][BD] EDIX Tour in Fukuoka 2026
+LOCATION:Marine Messe Fukuoka\, Fukuoka\, Japan
+DESCRIPTION:Category: BD / Education Expo / AI / STEAM / Kyushu\nPriority: P1\nMirai Minds significance: Regional EDIX event designed to connect education-sector exhibitors with schools\, boards of education and other Kyushu decision-makers.\nRecommended action: Strong candidate for attendance/exhibition if expanding in Kyushu.
+URL:https://www.edix-expo.jp/hub/ja-jp/fukuoka.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-tokyo-2027@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+SUMMARY:[P1][BD] EDIX Tokyo 2027
+LOCATION:Tokyo Big Sight West Exhibition Halls\, Tokyo\, Japan
+DESCRIPTION:Category: BD / Education Expo / EdTech / STEAM\nPriority: P1\nMirai Minds significance: One of Japan's largest education-sector exhibitions\, bringing together schools\, education institutions and providers.\nRecommended action: Budget early and seriously consider exhibiting.
+URL:https://www.edix-expo.jp/tokyo/ja-jp/about.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pansig-2027@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270517
+SUMMARY:[P2][ELT] PanSIG 2027
+LOCATION:Ritsumeikan Asia Pacific University\, Beppu\, Oita\, Japan
+DESCRIPTION:Category: ELT / SLA / Professional Network\nPriority: P2\nMirai Minds significance: Annual JALT SIG conference spanning multiple language-teaching specialisms\; useful for professional networking\, recruitment and curriculum intelligence.\nRecommended action: Attend/network\; monitor program and sponsorship information.
+URL:https://pansig.org/archive
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-education-expo-2027-session1@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+SUMMARY:[P1][EDTECH] NEW EDUCATION EXPO 2027 - Session 1
+LOCATION:Japan - venue TBA
+DESCRIPTION:Category: Education / EdTech / School Solutions\nPriority: P1 Watch\nMirai Minds significance: Major education-focused seminar and exhibition ecosystem\; useful for school\, technology and education-company partnerships.\nRecommended action: Hold dates\; monitor organizer for venue and exhibitor details.
+URL:https://edu-expo.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-education-expo-2027-session2@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270613
+SUMMARY:[P1][EDTECH] NEW EDUCATION EXPO 2027 - Session 2
+LOCATION:Japan - venue TBA
+DESCRIPTION:Category: Education / EdTech / School Solutions\nPriority: P1 Watch\nMirai Minds significance: Second announced 2027 NEW EDUCATION EXPO session\; useful for school\, technology and education-company partnerships.\nRecommended action: Hold dates\; monitor organizer for venue and exhibitor details.
+URL:https://edu-expo.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jalt-2027-shizuoka@mirai-minds-jp-b2beducator-calendar
+DTSTAMP:20260915T020000Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271108
+SUMMARY:[P1][ELT] JALT 2027 International Conference
+LOCATION:GRANSHIP\, Shizuoka City\, Shizuoka\, Japan
+DESCRIPTION:Category: ELT / Language Education / Partnerships / Recruitment\nPriority: P1\nMirai Minds significance: Major annual language-teaching conference\; valuable for English-program development\, educators\, publishing/materials contacts and partnerships.\nRecommended action: Reserve dates and monitor exhibitor/sponsor registration.
+URL:https://jalt.org/jalt-international-conference/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
