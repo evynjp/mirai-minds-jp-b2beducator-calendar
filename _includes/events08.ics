@@ -1,0 +1,125 @@
+BEGIN:VEVENT
+UID:shinagawa-open-house-series
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+RDATE;VALUE=DATE:20270211
+SUMMARY:[P2][OUTREACH] Shinagawa International School - Open House Day
+LOCATION:Shinagawa International School campuses\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Open-house activity across SIS campuses\; confirm specific campus/time before outreach.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:isn-gojo-info-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[P2][OUTREACH] International School of Nagano - Gojo Campus Information Session
+LOCATION:ISN Gojo Campus\, Matsumoto\, Nagano\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Classroom visits\, school overview and Q&A.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ois-naha-open-campus-nov-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:[P2][OUTREACH] Okinawa International School - Naha Open Campus
+LOCATION:Okinawa International School Naha Campus\, Naha\, Okinawa\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two-day open campus\, Nov 4-5.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:giis-heymath-tour-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:[P2][OUTREACH] GIIS Tokyo - HeyMath Workshop + Campus Tour
+LOCATION:GIIS Tokyo Kita Kasai Campus\, Tokyo\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nWhy useful: Hands-on STEM/math event provides competitive intelligence relevant to Maker's Lab.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis-inperson-open-house-series
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RDATE;VALUE=DATE:20261127,20270410,20270526
+SUMMARY:[P2][OUTREACH] Nagoya International School - In-Person Open House
+LOCATION:Nagoya International School\, Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 10:00.
+URL:https://www.nis.ac.jp/admissions/open-houses
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis-online-japanese-series
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+RDATE;VALUE=DATE:20270211,20270603
+SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (Japanese)
+LOCATION:Online
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 09:00.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis-online-chinese-series
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RDATE;VALUE=DATE:20270226,20270417
+SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (Chinese)
+LOCATION:Online
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 13:00.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis-online-english-series
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+RDATE;VALUE=DATE:20270413
+SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (English)
+LOCATION:Online
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 09:00.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rugby-school-open-day-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[P1][OUTREACH] Rugby School Japan Open Day
+LOCATION:Rugby School Japan\, Kashiwanoha\, Kashiwa\, Chiba\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nWhy prioritize: Premium international-school account with senior leaders and campus/community access.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:linden-hall-open-school-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[P2][OUTREACH] Linden Hall School Open School
+LOCATION:Linden Hall High School\, Chikushino\, Fukuoka\, Japan
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: IB/TI programs\; on-campus and online participation.
+URL:https://www.doris.school/schools/events/japan/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
