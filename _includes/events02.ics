@@ -1,0 +1,120 @@
+BEGIN:VEVENT
+UID:jera-annual-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:[P2][LITERACY] Japan Extensive Reading Association Annual Conference
+LOCATION:Ochanomizu Solacity\, Tokyo\, Japan
+DESCRIPTION:Category: Literacy / Extensive Reading / ELT\nMirai Minds significance: Directly relevant to literacy-club and reading-program development.\nAction: Attend\; investigate supporting-member/materials opportunities.
+URL:https://www.jera-tadoku.jp/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-osaka-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:[P1][BD] EDIX Osaka 2026
+LOCATION:Grand Cube Osaka\, Osaka\, Japan
+DESCRIPTION:Category: BD / Education Expo / EdTech / STEAM\nMirai Minds significance: Major West Japan education trade show connecting providers with schools and education decision-makers.\nAction: Attend\; investigate exhibition and partnership opportunities.
+URL:https://www.edix-expo.jp/osaka/ja-jp/about.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ceatec-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261013T100000
+DTEND;TZID=Asia/Tokyo:20261016T170000
+SUMMARY:[P2][TECH] CEATEC 2026
+LOCATION:Makuhari Messe\, Chiba\, Japan
+DESCRIPTION:Category: Technology / AI / Innovation / Partnerships\nMirai Minds significance: Useful for AI\, robotics and technology partners that could support STEAM and AI-literacy offerings.\nAction: Scout partners and emerging education-adjacent technologies.
+URL:https://www01.ceatec.com/en/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:study-abroad-sig-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[P3][ELT] JALT Study Abroad SIG Conference 2026
+LOCATION:Fukuoka\, Japan
+DESCRIPTION:Category: International Education / ELT\nMirai Minds significance: Relevant to global citizenship and international-program partnerships.\nAction: Attend selectively.
+URL:https://jalt.org/events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:info-education-symposium-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261018T100000
+DTEND;TZID=Asia/Tokyo:20261018T160000
+SUMMARY:[P2][EDTECH] High School Information Education Symposium 2026 Autumn
+LOCATION:Kogakuin University Shinjuku Campus\, Tokyo\, Japan
+DESCRIPTION:Category: ICT / Information Education / Digital Literacy\nMirai Minds significance: Useful for digital-literacy and AI-program development.\nAction: Attend for curriculum and technology intelligence.
+URL:https://www.jsise.org/spo_events/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:english-camp-jalt-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261024T140000
+DTEND;TZID=Asia/Tokyo:20261024T160000
+SUMMARY:[P2][ELT] Building Confidence Through English Camp Programs
+LOCATION:Ehime Prefecture International Center\, Matsuyama\, Ehime\, Japan
+DESCRIPTION:Category: English Camps / Experiential ELT\nMirai Minds significance: Directly relevant to seasonal camps\, after-school and experiential English programming.\nAction: Attend for program design ideas and regional networking.
+URL:https://events.jalt.org/event/88/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jsla-autumn-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[P3][RESEARCH] J-SLA Autumn Conference 2026
+LOCATION:Chuo University Tama Campus\, Tokyo\, Japan
+DESCRIPTION:Category: SLA / Language Education Research\nMirai Minds significance: Evidence-based language-program intelligence and researcher network.\nAction: Attend for professional development and potential research links.
+URL:https://en.j-sla.org/events/jsla-autumn-2026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pearson-day-2026
+DTSTAMP:20260915T030000Z
+DTSTART;TZID=Asia/Tokyo:20261025T100000
+DTEND;TZID=Asia/Tokyo:20261025T140000
+SUMMARY:[P1][ELT+AI] Pearson Day 2026
+LOCATION:Shibuya Solasta Conference\, Tokyo\, Japan
+DESCRIPTION:Category: English / AI / CEFR / Assessment / Young Learners\nMirai Minds significance: Strong alignment with English education\, AI use\, CEFR and child education.\nAction: Attend and network with education managers and providers.
+URL:https://fungry.co.jp/cnaps/pearson20261025/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jaet-national-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:[P2][EDTECH] JAET National Conference 2026
+LOCATION:Kochi University of Technology\, Kami\, Kochi\, Japan
+DESCRIPTION:Category: EdTech / Education DX / Inquiry Learning\nMirai Minds significance: National education-DX conference with school practice and corporate sponsorship opportunities.\nAction: Attend selectively\; scout school and technology partnerships.
+URL:https://jaet.jp/annual/2026/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3t-summit-2026
+DTSTAMP:20260915T030000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[P2][ELT+EDTECH] 3T Summit: Teaching\, Textbooks & Technology
+LOCATION:Prefectural University of Kumamoto\, Kumamoto\, Japan
+DESCRIPTION:Category: ELT / Materials / EdTech\nMirai Minds significance: Strong intersection of teaching\, materials writing and educational technology.\nAction: Attend\; explore materials\, publishing and EdTech partnerships.
+URL:https://mwsig.jalt.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
