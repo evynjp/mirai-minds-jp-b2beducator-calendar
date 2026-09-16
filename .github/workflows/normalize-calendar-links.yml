@@ -1,0 +1,32 @@
+name: Normalize calendar source links
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Add visible source links to event descriptions
+        run: python3 scripts/normalize_calendar_links.py
+
+      - name: Commit normalized calendar data
+        run: |
+          if git diff --quiet; then
+            echo "No normalization changes needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _includes/events*.ics
+          git commit -m "Expose event source links in Google Calendar descriptions"
+          git push
