@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mirai Minds — Japan Education Event Directory</title>
+  <style>
+    :root{--ink:#25231f;--muted:#6b675f;--paper:#f6f3eb;--card:#fffdf8;--line:#ded8cc;--accent:#754f32;--accent2:#aa835f;--green:#496453;--amber:#8b692f}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--paper);color:var(--ink);line-height:1.5}
+    header{padding:48px 24px 26px;border-bottom:1px solid var(--line);background:linear-gradient(135deg,#f7f2e8,#eee6d9)}
+    .wrap{max-width:1100px;margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.75rem;color:var(--accent);font-weight:700}h1{font-size:clamp(2rem,5vw,3.4rem);line-height:1.05;margin:.35rem 0 .8rem}header p{max-width:760px;color:var(--muted);margin:0}
+    nav{margin-top:18px;display:flex;gap:10px;flex-wrap:wrap}a.button,.source{display:inline-block;text-decoration:none;border-radius:999px;padding:9px 14px;font-weight:650;font-size:.9rem}a.button{background:var(--accent);color:white}.button.secondary{background:transparent;color:var(--accent);border:1px solid var(--accent2)}
+    main{padding:28px 24px 60px}.controls{display:grid;grid-template-columns:2fr 1fr;gap:12px;margin-bottom:18px}.controls input,.controls select{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:white;font:inherit;color:var(--ink)}
+    .meta{color:var(--muted);font-size:.9rem;margin-bottom:18px}.grid{display:grid;gap:15px}.event{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 19px;box-shadow:0 5px 16px rgba(40,30,20,.04);scroll-margin-top:18px}.event h2{font-size:1.1rem;margin:0 0 7px}.chips{display:flex;gap:7px;flex-wrap:wrap;margin:8px 0 11px}.chip{border:1px solid var(--line);border-radius:999px;padding:3px 8px;font-size:.76rem;color:var(--muted);background:#faf7f1}.event .where,.event .when{font-size:.9rem}.event .desc{font-size:.92rem;color:#4c4943;white-space:pre-line;margin:12px 0}.source{background:var(--green);color:white}.source.fallback{background:var(--amber)}.source.missing{background:#777;pointer-events:none}.small{font-size:.78rem;color:var(--muted);margin-left:8px}.empty{padding:30px;text-align:center;color:var(--muted)}
+    footer{border-top:1px solid var(--line);padding:24px;color:var(--muted);font-size:.84rem}.note{background:#f0eadf;border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:0 0 18px;color:#555149;font-size:.88rem}
+    @media(max-width:700px){.controls{grid-template-columns:1fr}header{padding-top:34px}.small{display:block;margin:7px 0 0}}
+  </style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="eyebrow">Mirai Minds · Business Development</div>
+  <h1>Japan Education Event Directory</h1>
+  <p>A live companion to the Mirai Minds Japan B2B Educator Calendar. Use it to review event details and jump to the organizer or school's source page before making attendance, outreach, sponsorship, or travel decisions.</p>
+  <nav><a class="button" href="calendar.ics">Subscribe / Open calendar feed</a><a class="button secondary" href="./">Calendar home</a></nav>
+</div></header>
+<main><div class="wrap">
+  <div class="note"><strong>Source labels:</strong> “Official source” means the calendar currently links to the organizer, association, event, or school website. “Source listing” means an official page has not yet been linked and the event currently relies on a third-party directory or broader listing. Dates and details should always be reconfirmed before booking travel or committing budget.</div>
+  <div class="controls"><input id="q" type="search" placeholder="Search event, school, city, category…"><select id="filter"><option value="">All priorities / types</option><option>P1</option><option>P2</option><option>P3</option><option>BD</option><option>OUTREACH</option><option>ELT</option><option>EDTECH</option><option>INTL SCHOOL</option></select></div>
+  <div id="count" class="meta">Loading live calendar…</div>
+  <div id="events" class="grid"></div>
+</div></main>
+<footer><div class="wrap">This directory is generated from the same live ICS feed subscribed to by the Mirai Minds calendar. Public event information only; no confidential company, student, or sales data should be stored here.</div></footer>
+<script>
+const FALLBACK_DOMAINS=['doris.school'];
+function unfold(text){return text.replace(/\r?\n[ \t]/g,'');}
+function unescapeIcs(s=''){return s.replace(/\\n/g,'\n').replace(/\\,/g,',').replace(/\\;/g,';').replace(/\\\\/g,'\\');}
+function getLine(block,key){const m=block.match(new RegExp('^'+key+'(?:;[^:]*)?:(.*)$','m'));return m?unescapeIcs(m[1].trim()):'';}
+function fmtDate(v){if(!v)return 'Date TBA';const m=v.match(/^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2}))?/);if(!m)return v;const d=new Date(Number(m[1]),Number(m[2])-1,Number(m[3]),Number(m[4]||0),Number(m[5]||0));return new Intl.DateTimeFormat('en-US',{year:'numeric',month:'short',day:'numeric',...(m[4]?{hour:'numeric',minute:'2-digit'}:{})}).format(d);}
+function cleanTitle(s){return s.replace(/^((\[[^\]]+\])+\s*)/,'').trim();}
+function tags(s){const m=s.match(/^(\[[^\]]+\])+/);return m?(m[0].match(/\[([^\]]+)\]/g)||[]).map(x=>x.slice(1,-1)):[];}
+async function load(){
+  const r=await fetch('calendar.ics?ts='+Date.now(),{cache:'no-store'}); const text=unfold(await r.text());
+  const blocks=text.split('BEGIN:VEVENT').slice(1).map(x=>x.split('END:VEVENT')[0]);
+  const data=blocks.map(b=>({uid:getLine(b,'UID'),title:getLine(b,'SUMMARY'),start:getLine(b,'DTSTART'),end:getLine(b,'DTEND'),location:getLine(b,'LOCATION'),description:getLine(b,'DESCRIPTION'),url:getLine(b,'URL'),status:getLine(b,'STATUS')}));
+  data.sort((a,b)=>(a.start||'99999999').localeCompare(b.start||'99999999')); window.EVENTS=data; render();
+  if(location.hash){setTimeout(()=>document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView({behavior:'smooth'}),150)}
+}
+function render(){const q=(document.getElementById('q').value||'').toLowerCase(),f=document.getElementById('filter').value;const list=(window.EVENTS||[]).filter(e=>{const hay=[e.title,e.location,e.description].join(' ').toLowerCase();return (!q||hay.includes(q))&&(!f||e.title.includes('['+f+']'));});document.getElementById('count').textContent=`${list.length} event records shown · live from calendar.ics`;const root=document.getElementById('events');root.innerHTML='';if(!list.length){root.innerHTML='<div class="empty">No matching events.</div>';return}for(const e of list){const t=tags(e.title);let sourceClass='source missing',label='No source linked';if(e.url){const fallback=FALLBACK_DOMAINS.some(d=>e.url.includes(d));sourceClass='source'+(fallback?' fallback':'');label=fallback?'Source listing':'Official source / more information';}const card=document.createElement('article');card.className='event';card.id=e.uid||Math.random().toString(36).slice(2);card.innerHTML=`<h2>${cleanTitle(e.title)}</h2><div class="chips">${t.map(x=>`<span class="chip">${x}</span>`).join('')}${e.status?`<span class="chip">${e.status}</span>`:''}</div><div class="when"><strong>Date:</strong> ${fmtDate(e.start)}</div><div class="where"><strong>Location:</strong> ${e.location||'TBA / Online'}</div><div class="desc">${e.description||''}</div>${e.url?`<a class="${sourceClass}" href="${e.url}" target="_blank" rel="noopener">${label} ↗</a>`:`<span class="${sourceClass}">${label}</span>`}<span class="small">UID: ${e.uid||'n/a'}</span>`;root.appendChild(card)}}
+document.getElementById('q').addEventListener('input',render);document.getElementById('filter').addEventListener('change',render);load().catch(err=>{document.getElementById('count').textContent='Could not load the live feed.';console.error(err)});
+</script>
+</body>
+</html>
