@@ -4,10 +4,24 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mirai Minds Japan B2B Educator Calendar</title>
+  <style>
+    :root{--ink:#25231f;--muted:#6b675f;--paper:#f6f3eb;--card:#fffdf8;--line:#ded8cc;--accent:#754f32;--accent2:#aa835f}
+    *{box-sizing:border-box}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--paper);color:var(--ink);line-height:1.55}.wrap{max-width:920px;margin:auto;padding:0 24px}header{padding:70px 0 34px;background:linear-gradient(135deg,#f7f2e8,#eee6d9);border-bottom:1px solid var(--line)}.eyebrow{text-transform:uppercase;letter-spacing:.14em;font-size:.76rem;color:var(--accent);font-weight:700}h1{font-size:clamp(2.2rem,6vw,4rem);line-height:1.03;margin:.45rem 0 1rem}header p{max-width:730px;color:var(--muted);font-size:1.04rem}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.button{display:inline-block;text-decoration:none;border-radius:999px;padding:11px 16px;font-weight:700}.primary{background:var(--accent);color:white}.secondary{border:1px solid var(--accent2);color:var(--accent);background:rgba(255,255,255,.35)}main{padding:34px 0 60px}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}.card h2{margin-top:0;font-size:1.1rem}.card p{color:var(--muted);font-size:.93rem}.steps{margin:8px 0 0;padding-left:20px;color:#504c46;font-size:.93rem}.feed{word-break:break-all;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;background:#eee8dc;padding:8px 10px;border-radius:8px;font-size:.82rem}footer{border-top:1px solid var(--line);padding:24px 0;color:var(--muted);font-size:.85rem}@media(max-width:700px){.cards{grid-template-columns:1fr}header{padding-top:48px}}
+  </style>
 </head>
 <body>
-  <h1>Mirai Minds – Japan B2B Educator Calendar</h1>
-  <p>This site hosts the public iCalendar feed for Japan education and B2B events relevant to Mirai Minds.</p>
-  <p><a href="calendar.ics">Open calendar feed (.ics)</a></p>
+<header><div class="wrap">
+  <div class="eyebrow">Mirai Minds · Japan</div>
+  <h1>B2B Educator Calendar</h1>
+  <p>A continuously maintained public calendar of education, international-school, ELT, EdTech, STEAM, early-years and partnership opportunities relevant to Mirai Minds across Japan.</p>
+  <div class="actions"><a class="button primary" href="events.html">Browse events & official sources</a><a class="button secondary" href="calendar.ics">Open calendar feed (.ics)</a></div>
+</div></header>
+<main><div class="wrap"><div class="cards">
+  <section class="card"><h2>Event information & sources</h2><p>Use the live event directory to search the calendar and open the organizer or school's source page for more information. Third-party fallback listings are labeled separately so they are not mistaken for official announcements.</p><a href="events.html">Open the event directory →</a></section>
+  <section class="card"><h2>Subscribe in Google Calendar</h2><ol class="steps"><li>Open Google Calendar on desktop.</li><li>Next to <strong>Other calendars</strong>, choose <strong>+</strong>.</li><li>Select <strong>From URL</strong>.</li><li>Paste the feed URL below and add it.</li></ol><p class="feed">https://evynjp.github.io/mirai-minds-jp-b2beducator-calendar/calendar.ics</p></section>
+  <section class="card"><h2>Calendar labels</h2><p><strong>P1</strong> = highest-priority opportunity; <strong>P2</strong> = strong/relevant; <strong>P3</strong> = selective/opportunistic. Common tags include BD, OUTREACH, ELT, EDTECH and INTL SCHOOL.</p></section>
+  <section class="card"><h2>Source & privacy standard</h2><p>The public feed should contain only public event information and non-confidential Mirai Minds relevance notes. Internal sales notes, student data, pricing, private contacts and negotiations should remain outside this feed.</p></section>
+</div></div></main>
+<footer><div class="wrap">Mirai Minds — Japan B2B Educator Calendar · Live ICS feed and source directory</div></footer>
 </body>
 </html>
