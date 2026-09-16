@@ -5,7 +5,7 @@ DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
 SUMMARY:[P2][OUTREACH] Okinawa International School - Naha Open Campus
 LOCATION:Okinawa International School Naha Campus\, Naha\, Okinawa\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two-day Naha Campus open campus\, Sep 16-17.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two-day Naha Campus open campus\, Sep 16-17.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -17,7 +17,7 @@ DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:[P2][OUTREACH] Abroad International School Osaka Open House
 LOCATION:Abroad International School Osaka\, 2-14-14 Hayashiji\, Ikuno-ku\, Osaka\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: School information session\, campus tour and consultation\; listed start 10:00.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: School information session\, campus tour and consultation\; listed start 10:00.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,7 +30,7 @@ DTEND;TZID=Asia/Tokyo:20260924T170000
 RDATE;TZID=Asia/Tokyo:20261008T161500,20261015T161500,20261112T161500,20261119T161500,20261217T161500,20270114T161500,20270211T161500,20270225T161500,20270311T161500,20270318T161500,20270401T161500,20270415T161500,20270429T161500,20270513T161500,20270603T161500
 SUMMARY:[P2][OUTREACH] UWC ISAK Japan - Student-led Campus Tour
 LOCATION:UWC ISAK Japan\, Karuizawa\, Nagano\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: 45-minute student-led tour\; recurring dates in this feed.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: 45-minute student-led tour\; recurring dates in this feed.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -43,7 +43,7 @@ DTEND;TZID=Asia/Tokyo:20260919T094500
 RDATE;TZID=Asia/Tokyo:20261003T090000,20261010T090000,20261114T090000
 SUMMARY:[P2][OUTREACH] UWC ISAK Japan - Saturday Student-led Campus Tour
 LOCATION:UWC ISAK Japan\, Karuizawa\, Nagano\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: 45-minute student-led tour.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: 45-minute student-led tour.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -56,7 +56,7 @@ DTEND;TZID=Asia/Tokyo:20260928T113000
 RDATE;TZID=Asia/Tokyo:20261005T090000,20261102T090000
 SUMMARY:[P2][OUTREACH] UWC ISAK Japan - Open Campus
 LOCATION:UWC ISAK Japan\, Karuizawa\, Nagano\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Approximately 2.5 hours including campus tour\, lunch and Q&A.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Approximately 2.5 hours including campus tour\, lunch and Q&A.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -69,7 +69,7 @@ DTEND;TZID=Asia/Tokyo:20261004T133000
 RDATE;TZID=Asia/Tokyo:20261101T110000,20261115T110000
 SUMMARY:[P2][OUTREACH] UWC ISAK Japan - Open Campus
 LOCATION:UWC ISAK Japan\, Karuizawa\, Nagano\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Approximately 2.5 hours including campus tour\, lunch and Q&A.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Approximately 2.5 hours including campus tour\, lunch and Q&A.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ DTEND;TZID=Asia/Tokyo:20261002T100000
 RDATE;TZID=Asia/Tokyo:20261030T090000,20261120T090000
 SUMMARY:[P3][OUTREACH] UWC ISAK Japan - Admissions Q&A
 LOCATION:Online
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Small-group admissions Q&A\; Japanese support may be available on request.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Small-group admissions Q&A\; Japanese support may be available on request.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -95,7 +95,7 @@ DTEND;TZID=Asia/Tokyo:20270408T110000
 RDATE;TZID=Asia/Tokyo:20270506T100000
 SUMMARY:[P3][OUTREACH] UWC ISAK Japan - Meet with Admissions
 LOCATION:Karuizawa or Online
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Admissions meeting covering timelines\, entry points and campus information.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Admissions meeting covering timelines\, entry points and campus information.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -107,7 +107,7 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:[P3][OUTREACH] St. Michael's International School - Get Acquainted Tea
 LOCATION:St. Michael's International School\, Kobe\, Hyogo\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -119,7 +119,7 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:[P1][OUTREACH] Saint Maur International School Open House
 LOCATION:Saint Maur International School\, Yokohama\, Kanagawa\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nWhy prioritize: Strong geographic fit for Mirai Minds' Kanagawa activity.
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nWhy prioritize: Strong geographic fit for Mirai Minds' Kanagawa activity.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
 URL:https://www.doris.school/schools/events/japan/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

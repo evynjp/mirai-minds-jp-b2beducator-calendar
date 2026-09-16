@@ -5,7 +5,7 @@ DTSTART;TZID=Asia/Tokyo:20260926T093000
 DTEND;TZID=Asia/Tokyo:20260926T130000
 SUMMARY:[P1][OUTREACH] NLCS Kobe Information Session
 LOCATION:The Orient\, Kobe\, Hyogo\, Japan
-DESCRIPTION:Category: International Schools / School Outreach / Kansai\nPriority: P1\nMirai Minds significance: Direct relationship-building opportunity with a growing international-school organization in Kansai; includes access to school leadership, curriculum philosophy and community information.\nRecommended action: Contact the school separately as a professional representative before attending; do not use the parent-facing session for unsolicited sales activity.
+DESCRIPTION:Category: International Schools / School Outreach / Kansai\nPriority: P1\nMirai Minds significance: Direct relationship-building opportunity with a growing international-school organization in Kansai; includes access to school leadership, curriculum philosophy and community information.\nRecommended action: Contact the school separately as a professional representative before attending; do not use the parent-facing session for unsolicited sales activity.\nMore information / source: https://nlcskobe.jp/news-events/information-session-in-kobe/
 URL:https://nlcskobe.jp/news-events/information-session-in-kobe/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -17,7 +17,7 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:[P3][GLOBAL ED] Rikkyo School in England - Japan Joint Information Session
 LOCATION:Rikkyo University classrooms\, Tokyo\, Japan
-DESCRIPTION:Category: Global Education / Boarding Schools / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful insight into the Japan-facing international/boarding-school market and possible global-education partnership channels.\nRecommended action: Treat as a family-facing information session; use primarily for market intelligence and separate professional outreach.
+DESCRIPTION:Category: Global Education / Boarding Schools / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful insight into the Japan-facing international/boarding-school market and possible global-education partnership channels.\nRecommended action: Treat as a family-facing information session; use primarily for market intelligence and separate professional outreach.\nSource listing (fallback): https://www.doris.school/schools/events/rikkyo-school-in-england-rikkyo-school-in-england-information-session-in-japan-joint-session-2026-09-26
 URL:https://www.doris.school/schools/events/rikkyo-school-in-england-rikkyo-school-in-england-information-session-in-japan-joint-session-2026-09-26
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -29,7 +29,7 @@ DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:[P2][OUTREACH] GIIS Tokyo - International Education Expo
 LOCATION:GIIS Tokyo campuses\, Tokyo\, Japan
-DESCRIPTION:Category: International Schools / School Outreach / Global Education\nPriority: P2\nMirai Minds significance: Opportunity to study GIIS curriculum positioning and connect with a large international-school operator active in Tokyo.\nRecommended action: Use as an outreach trigger and market-intelligence opportunity; contact professional staff separately.
+DESCRIPTION:Category: International Schools / School Outreach / Global Education\nPriority: P2\nMirai Minds significance: Opportunity to study GIIS curriculum positioning and connect with a large international-school operator active in Tokyo.\nRecommended action: Use as an outreach trigger and market-intelligence opportunity; contact professional staff separately.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
 URL:https://visit.doris.school/schools/events/japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:[P3][GLOBAL ED] Rikkyo School in England - Japan Information Session
 LOCATION:Rikkyo University Tachikawa Memorial Hall\, Tokyo\, Japan
-DESCRIPTION:Category: Global Education / Boarding Schools / Market Intelligence\nPriority: P3\nMirai Minds significance: Japan-facing international education event useful for understanding outbound-school demand and possible partnership channels.\nRecommended action: Market intelligence / separate professional outreach.
+DESCRIPTION:Category: Global Education / Boarding Schools / Market Intelligence\nPriority: P3\nMirai Minds significance: Japan-facing international education event useful for understanding outbound-school demand and possible partnership channels.\nRecommended action: Market intelligence / separate professional outreach.\nSource listing (fallback): https://www.doris.school/schools/united-kingdom/rikkyo-school-in-england/events-open-days-and-tours
 URL:https://www.doris.school/schools/united-kingdom/rikkyo-school-in-england/events-open-days-and-tours
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,7 +53,7 @@ DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:[P3][GLOBAL ED] Rikkyo School in England - Nagoya Information Session
 LOCATION:Nagoya Prime Central Tower\, Nagoya\, Aichi\, Japan
-DESCRIPTION:Category: Global Education / Boarding Schools / Tokai\nPriority: P3\nMirai Minds significance: Additional Tokai-facing international education touchpoint and market-intelligence opportunity.\nRecommended action: Market intelligence / separate professional outreach.
+DESCRIPTION:Category: Global Education / Boarding Schools / Tokai\nPriority: P3\nMirai Minds significance: Additional Tokai-facing international education touchpoint and market-intelligence opportunity.\nRecommended action: Market intelligence / separate professional outreach.\nSource listing (fallback): https://www.doris.school/schools/united-kingdom/rikkyo-school-in-england/events-open-days-and-tours
 URL:https://www.doris.school/schools/united-kingdom/rikkyo-school-in-england/events-open-days-and-tours
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -65,7 +65,7 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:[P3][OUTREACH] Tamagawa Academy - Cosmos Festival Admissions Consultations
 LOCATION:Tamagawa Academy\, Machida\, Tokyo\, Japan
-DESCRIPTION:Category: Private Schools / Admissions / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful window into a major private-school ecosystem with internationally oriented education and inquiry/IB-related interests.\nRecommended action: Market intelligence and separate institutional outreach rather than onsite solicitation.
+DESCRIPTION:Category: Private Schools / Admissions / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful window into a major private-school ecosystem with internationally oriented education and inquiry/IB-related interests.\nRecommended action: Market intelligence and separate institutional outreach rather than onsite solicitation.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
 URL:https://visit.doris.school/schools/events/japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -77,7 +77,7 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:[P3][OUTREACH] International School of Nagano - Gojo Online Information Session
 LOCATION:Online
-DESCRIPTION:Category: International Schools / School Outreach / Nagano\nPriority: P3\nMirai Minds significance: Low-cost way to understand ISN's positioning and programs while building awareness of the Nagano international-school market.\nRecommended action: Use for account intelligence and separate professional outreach.
+DESCRIPTION:Category: International Schools / School Outreach / Nagano\nPriority: P3\nMirai Minds significance: Low-cost way to understand ISN's positioning and programs while building awareness of the Nagano international-school market.\nRecommended action: Use for account intelligence and separate professional outreach.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
 URL:https://visit.doris.school/schools/events/japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -89,7 +89,7 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261205
 SUMMARY:[P3][GLOBAL ED] Lycée Français International de Tokyo - AEFE Virtual Higher Education Fair
 LOCATION:Online
-DESCRIPTION:Category: International Education / Global Pathways / French Education Network\nPriority: P3\nMirai Minds significance: Useful for understanding global-education pathways and the French international-school ecosystem serving families in Japan.\nRecommended action: Monitor for partnership intelligence rather than direct sales.
+DESCRIPTION:Category: International Education / Global Pathways / French Education Network\nPriority: P3\nMirai Minds significance: Useful for understanding global-education pathways and the French international-school ecosystem serving families in Japan.\nRecommended action: Monitor for partnership intelligence rather than direct sales.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
 URL:https://visit.doris.school/schools/events/japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -102,7 +102,7 @@ DTEND;VALUE=DATE:20261223
 RDATE;VALUE=DATE:20261223,20261224,20261225,20261226,20261227,20270105,20270106,20270107
 SUMMARY:[P3][OUTREACH] Kunimoto Alberta International - Winter Break Tours & Consultations
 LOCATION:Kunimoto Girls' Junior & Senior High School\, Tokyo\, Japan
-DESCRIPTION:Category: International Pathways / Private Schools / School Outreach\nPriority: P3\nMirai Minds significance: Repeated access point into a Japanese private-school international-program ecosystem.\nRecommended action: Treat as admissions activity; use dates as triggers for separate professional outreach.
+DESCRIPTION:Category: International Pathways / Private Schools / School Outreach\nPriority: P3\nMirai Minds significance: Repeated access point into a Japanese private-school international-program ecosystem.\nRecommended action: Treat as admissions activity; use dates as triggers for separate professional outreach.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
 URL:https://visit.doris.school/schools/events/japan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
