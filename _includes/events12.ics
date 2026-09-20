@@ -1,0 +1,84 @@
+BEGIN:VEVENT
+UID:cue-gale-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;TZID=Asia/Tokyo:20261010T090000
+DTEND;TZID=Asia/Tokyo:20261011T171000
+SUMMARY:[P2][ELT] JALT CUE & GALE SIG Conference 2026
+LOCATION:Kanazawa Institute of Technology\, Nonoichi\, Ishikawa\, Japan
+DESCRIPTION:Category: ELT / Equity / Learner Agency / Professional Development\nPriority: P2\nMirai Minds significance: Two-day JALT professional-development conference on equity\, identity and agency in English language education; useful for curriculum and teacher-development intelligence.\nRecommended action: Attend for ELT networking and pedagogical intelligence. Early registration ended September 20; check current registration availability on the official event page.\nMore information / source: https://events.jalt.org/event/85/
+URL:https://events.jalt.org/event/85/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edix-osaka-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:[P1][BD][EDTECH] EDIX Osaka 2026
+LOCATION:Grand Cube Osaka (Osaka International Convention Center)\, Osaka\, Japan
+DESCRIPTION:Category: Education Trade Show / EdTech / School DX / STEAM / B2B\nPriority: P1\nMirai Minds significance: Western Japan's major education-industry exhibition; 120 exhibitors are advertised and the show targets schools\, education institutions and education suppliers. Strong prospecting\, competitor-intelligence and partnership opportunity.\nRecommended action: Register in advance and prioritize school DX\, AI\, teaching-support\, content and STEAM exhibitors. Exhibition hours 10:00-17:00; seminar hours vary.\nMore information / source: https://www.edix-expo.jp/osaka/ja-jp.html
+URL:https://www.edix-expo.jp/osaka/ja-jp.html
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edtech-asia-summit-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+SUMMARY:[P1][BD][EDTECH] EdTech Asia Summit 2026
+LOCATION:Tokyo Garden Terrace Kioi Conference\, Chiyoda\, Tokyo\, Japan
+DESCRIPTION:Category: EdTech / AI / Education Leadership / Partnerships\nPriority: P1\nMirai Minds significance: Senior Asia-focused education and AI leadership forum with 300+ delegates\, 30+ countries and 100+ speakers advertised; strong strategic networking and market-intelligence opportunity.\nRecommended action: Evaluate attendance/application promptly; attendance is by application.\nMore information / source: https://edtechasia.com/
+URL:https://edtechasia.com/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3t-summit-kumamoto-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;TZID=Asia/Tokyo:20261101T090000
+DTEND;TZID=Asia/Tokyo:20261101T163000
+SUMMARY:[P2][ELT][EDTECH] JALT 3T Summit - Teaching\, Textbooks & Technology
+LOCATION:Prefectural University of Kumamoto\, Kumamoto\, Japan
+DESCRIPTION:Category: ELT / Materials Development / EdTech / AI\nPriority: P2\nMirai Minds significance: JALT Materials Writers SIG event bringing together teachers\, materials writers\, EdTech developers\, researchers and publishers; directly relevant to Mirai Minds curriculum/materials work and AI-supported language education.\nRecommended action: Attend for materials-development and publishing/EdTech networking. Pre-summit events are scheduled for October 31.\nMore information / source: https://mwsig.jalt.org/events/2026-3t-prefectural-university-of-kumamoto
+URL:https://mwsig.jalt.org/events/2026-3t-prefectural-university-of-kumamoto
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jalt2026-nagoya@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;TZID=Asia/Tokyo:20261120T090000
+DTEND;TZID=Asia/Tokyo:20261122T191500
+SUMMARY:[P1][BD][ELT] JALT2026 International Conference & Materials Exhibition
+LOCATION:WINC Aichi\, Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: ELT / Educational Materials / Professional Development / B2B\nPriority: P1\nMirai Minds significance: JALT's 52nd annual international conference combines language-teaching professional development with an Educational Materials Exhibition and JALT Junior; a high-value networking and curriculum-intelligence opportunity.\nRecommended action: Consider team attendance and supplier/publisher meetings. Early-bird preregistration ends October 31\, 2026 at 23:59 JST.\nMore information / source: https://events.jalt.org/event/73/
+URL:https://events.jalt.org/event/73/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iceel-tokyo-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:[P3][EDTECH] International Conference on Education and E-Learning (ICEEL 2026)
+LOCATION:Tokyo\, Japan
+DESCRIPTION:Category: Education Research / E-Learning / EdTech\nPriority: P3\nMirai Minds significance: International education and e-learning research conference in Tokyo; useful for research intelligence and selected academic networking.\nRecommended action: Monitor program and attend selectively if sessions align with AI literacy\, digital learning or K-12 program development.\nMore information / source: https://www.iceel.org/
+URL:https://www.iceel.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:asiaedu-niigata-2026@mirai-minds
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261201
+SUMMARY:[P3][EDTECH] Asia Conference on Education Technology 2026
+LOCATION:Niigata\, Japan
+DESCRIPTION:Category: Education Technology / Research / Higher Education\nPriority: P3\nMirai Minds significance: Education-technology research conference co-sponsored by Niigata University; useful mainly for research and technology scanning rather than direct school sales.\nRecommended action: Monitor program. Paper deadline September 25; registration and camera-ready deadline October 25\, 2026.\nMore information / source: https://asiaedu.org/
+URL:https://asiaedu.org/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
