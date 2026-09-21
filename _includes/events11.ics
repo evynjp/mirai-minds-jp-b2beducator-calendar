@@ -60,13 +60,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:tamagawa-cosmos-admissions-2026@mirai-minds
-DTSTAMP:20260915T022000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTAMP:20260921T000000Z
+DTSTART;TZID=Asia/Tokyo:20261107T100000
+DTEND;TZID=Asia/Tokyo:20261107T150000
 SUMMARY:[P3][OUTREACH] Tamagawa Academy - Cosmos Festival Admissions Consultations
-LOCATION:Tamagawa Academy\, Machida\, Tokyo\, Japan
-DESCRIPTION:Category: Private Schools / Admissions / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful window into a major private-school ecosystem with internationally oriented education and inquiry/IB-related interests.\nRecommended action: Market intelligence and separate institutional outreach rather than onsite solicitation.\nSource listing (fallback): https://visit.doris.school/schools/events/japan
-URL:https://visit.doris.school/schools/events/japan
+LOCATION:Tamagawa Academy K-12 Central Building\, Machida\, Tokyo\, Japan
+DESCRIPTION:Category: Private Schools / Admissions / Market Intelligence\nPriority: P3\nMirai Minds significance: Useful window into a major private-school ecosystem with internationally oriented education and IB pathways.\nRecommended action: Parent-facing admissions activity; use only for market intelligence and separate institutional outreach rather than onsite solicitation. No reservation is required for the consultation event.\nMore information / source: https://www.tamagawa.jp/academy/lower_upper_d/admission/u_event_campus.html
+URL:https://www.tamagawa.jp/academy/lower_upper_d/admission/u_event_campus.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
