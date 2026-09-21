@@ -23,4 +23,5 @@ X-PUBLISHED-TTL:PT6H
 {% include events09.ics %}
 {% include events10.ics %}
 {% include events11.ics %}
+{% include events12.ics %}
 END:VCALENDAR
