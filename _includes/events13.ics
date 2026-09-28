@@ -1,8 +1,36 @@
 BEGIN:VEVENT
-UID:test-placeholder-2026@mirai-minds
+UID:jaet-practice-seminar-amagasaki-2026@mirai-minds
 DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Placeholder
-STATUS:TENTATIVE
+DTSTART;TZID=Asia/Tokyo:20261003T121500
+DTEND;TZID=Asia/Tokyo:20261003T170000
+SUMMARY:[P1][EDTECH] JAET Education Informatization Practice Seminar 2026
+LOCATION:Sonoda Gakuen University Building 4\, Amagasaki\, Hyogo\, Japan
+DESCRIPTION:Category: Education DX / Digital Learning / AI / School ICT / B2B\nPriority: P1\nMirai Minds significance: Near-term JAET/JAPET&CEC seminar on curriculum revision in a digitally enabled learning environment\, with school practice presentations\, education-ICT product exhibits and an AI-era teaching session. Corporate attendees are explicitly included in the target audience.\nRecommended action: Register immediately if useful; free advance registration closes September 30\, 2026 at 17:00 JST and capacity is about 100.\nMore information / source: https://jaet.jp/event/event-26356/
+URL:https://jaet.jp/event/event-26356/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jst-solve-kyushu-ai-multicultural-2026@mirai-minds
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Tokyo:20261011T093000
+DTEND;TZID=Asia/Tokyo:20261012T163000
+SUMMARY:[P2][AI+ELT] JST SOLVE Workshop & International Symposium 2026
+LOCATION:JR Hakata City Conference Rooms / Online\, Fukuoka\, Japan
+DESCRIPTION:Category: AI / Multicultural Education / Language Support / Inclusion / International Collaboration\nPriority: P2\nMirai Minds significance: Kyushu University-led event connecting generative AI\, education\, multilingual/migrant-family support and plain Japanese. Strong relevance to language education\, international-school inclusion and AI-literacy thinking.\nRecommended action: Consider remote or in-person attendance; participation is free and advance registration closes September 30\, 2026.\nMore information / source: https://la.kyushu-u.ac.jp/news/20251011-12jst-solve/
+URL:https://la.kyushu-u.ac.jp/news/20251011-12jst-solve/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:education-vision-summit-tokyo-2026@mirai-minds
+DTSTAMP:20260928T000000Z
+DTSTART;TZID=Asia/Tokyo:20261022T130000
+DTEND;TZID=Asia/Tokyo:20261022T170000
+SUMMARY:[P1][EDUCATION][AI/DX] Education Vision Summit 2026
+LOCATION:Advanced Education Organization Tokyo Campus / Online\, Minami-Aoyama\, Tokyo\, Japan
+DESCRIPTION:Category: Education Policy / Curriculum / Generative AI / ICT / School Leadership\nPriority: P1\nMirai Minds significance: Newly announced summit on Japan's next curriculum guidelines and education through 2040\, featuring MEXT and local education leaders plus sessions on generative AI\, ICT\, individualized learning and non-cognitive skills. Strong strategic intelligence for school partnerships and program positioning.\nRecommended action: Register in advance; participation is free and the event is hybrid.\nMore information / source: https://info.sentankyo.ac.jp/education-vision-summit_1022
+URL:https://info.sentankyo.ac.jp/education-vision-summit_1022
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
