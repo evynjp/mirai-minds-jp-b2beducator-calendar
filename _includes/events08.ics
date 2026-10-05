@@ -25,13 +25,13 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ois-naha-open-campus-nov-2026
-DTSTAMP:20260915T030000Z
+DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
 SUMMARY:[P2][OUTREACH] Okinawa International School - Naha Open Campus
 LOCATION:Okinawa International School Naha Campus\, Naha\, Okinawa\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two-day open campus\, Nov 4-5.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
-URL:https://www.doris.school/schools/events/japan/
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Two-day open campus\, Nov 4-5.\nMore information / source: https://ois.ac.jp/open-campus/
+URL:https://ois.ac.jp/open-campus/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -49,53 +49,52 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nis-inperson-open-house-series
-DTSTAMP:20260915T030000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-RDATE;VALUE=DATE:20261127,20270410,20270526
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261201T100000
+DTEND;TZID=Asia/Tokyo:20261201T120000
+RDATE;TZID=Asia/Tokyo:20270122T100000,20270329T100000
 SUMMARY:[P2][OUTREACH] Nagoya International School - In-Person Open House
 LOCATION:Nagoya International School\, Nagoya\, Aichi\, Japan
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 10:00.\nMore information / source: https://www.nis.ac.jp/admissions/open-houses
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a major international school.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nOfficial schedule: Dec 1\, 2026; Jan 22 and Mar 29\, 2027; 10:00-12:00.\nMore information / source: https://www.nis.ac.jp/admissions/open-houses
 URL:https://www.nis.ac.jp/admissions/open-houses
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nis-online-japanese-series
-DTSTAMP:20260915T030000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-RDATE;VALUE=DATE:20270211,20270603
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20270301T100000
+DTEND;TZID=Asia/Tokyo:20270301T110000
+RDATE;TZID=Asia/Tokyo:20270429T090000,20270602T090000
 SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (Japanese)
 LOCATION:Online
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 09:00.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
-URL:https://www.doris.school/schools/events/japan/
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Low-cost account intelligence and admissions-market visibility.\nAction: Parent-facing event\; use for market intelligence and separate professional outreach.\nOfficial schedule: Mar 1 10:00-11:00; Apr 29 and Jun 2 09:00-10:00.\nMore information / source: https://www.nis.ac.jp/admissions/open-houses
+URL:https://www.nis.ac.jp/admissions/open-houses
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nis-online-chinese-series
-DTSTAMP:20260915T030000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-RDATE;VALUE=DATE:20270226,20270417
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261121T100000
+DTEND;TZID=Asia/Tokyo:20261121T113000
+RDATE;TZID=Asia/Tokyo:20270120T190000,20270417T100000
 SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (Chinese)
 LOCATION:Online
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 13:00.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
-URL:https://www.doris.school/schools/events/japan/
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account intelligence for NIS and multilingual international-school admissions.\nAction: Parent-facing event\; use for market intelligence and separate professional outreach.\nOfficial schedule: Nov 21 10:00-11:30; Jan 20 19:00-20:30; Apr 17 10:00-11:30.\nMore information / source: https://www.nis.ac.jp/admissions/open-houses
+URL:https://www.nis.ac.jp/admissions/open-houses
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:nis-online-english-series
-DTSTAMP:20260915T030000Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-RDATE;VALUE=DATE:20270413
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20270211T090000
+DTEND;TZID=Asia/Tokyo:20270211T100000
 SUMMARY:[P3][OUTREACH] Nagoya International School - Online Open House (English)
 LOCATION:Online
-DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account-intelligence and relationship-building opportunity with a potential school partner.\nAction: Treat as a parent-facing admissions event\; contact school leadership/program staff separately and do not solicit onsite without prior arrangement.\nEvent note: Listed start 09:00.\nSource listing (fallback): https://www.doris.school/schools/events/japan/
-URL:https://www.doris.school/schools/events/japan/
+DESCRIPTION:Category: School Outreach / International Schools\nMirai Minds significance: Account intelligence and international-school admissions visibility.\nAction: Parent-facing event\; use for market intelligence and separate professional outreach.\nMore information / source: https://www.nis.ac.jp/admissions/open-houses
+URL:https://www.nis.ac.jp/admissions/open-houses
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -1,8 +1,98 @@
 BEGIN:VEVENT
-UID:test-placeholder-2026@mirai-minds
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Placeholder
-STATUS:TENTATIVE
+UID:education-vision-summit-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261022T130000
+DTEND;TZID=Asia/Tokyo:20261022T170000
+SUMMARY:[P1][EDUCATION][AI] Education Vision Summit 2026
+LOCATION:Advanced Academic Agency Tokyo Campus\, Minami-Aoyama\, Tokyo / Online
+DESCRIPTION:Category: Education Policy / Curriculum / AI / ICT / School Leadership\nPriority: P1\nMirai Minds significance: MEXT and local education leaders will discuss the next curriculum guidelines\, generative AI/ICT\, individualized learning and non-cognitive skills. Strong strategic intelligence for curriculum and school partnerships.\nAction: Attend if possible; free with advance registration.\nMore information / source: https://www.sentankyo.jp/articles/33ca2473-166a-45c2-a04b-23d3fd674cee
+URL:https://www.sentankyo.jp/articles/33ca2473-166a-45c2-a04b-23d3fd674cee
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nis-open-campus-day-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[P2][OUTREACH] Nagoya International School - Open Campus Day
+LOCATION:Nagoya International School\, Nagoya\, Aichi\, Japan
+DESCRIPTION:Category: International Schools / School Outreach / Market Intelligence\nPriority: P2\nMirai Minds significance: Opportunity to experience NIS community\, programs and learning environment and build account intelligence.\nAction: Parent-facing event; use as an outreach trigger and arrange professional contact separately rather than soliciting onsite.\nMore information / source: https://www.nis.ac.jp/admissions/admissions-events
+URL:https://www.nis.ac.jp/admissions/admissions-events
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kais-ems-open-house-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261117T104500
+DTEND;TZID=Asia/Tokyo:20261117T120000
+SUMMARY:[P2][OUTREACH] KAIS International School - Elementary/Middle Open House
+LOCATION:KAIS International School Elementary/Middle Campus\, Meguro\, Tokyo\, Japan
+DESCRIPTION:Category: International Schools / School Outreach / Tokyo\nPriority: P2\nMirai Minds significance: Direct account-intelligence opportunity with an international-school provider serving elementary and middle grades.\nAction: Parent-facing admissions event; contact school staff separately for professional outreach.\nMore information / source: https://kainternationalschool.com/ja/book-a-tour/
+URL:https://kainternationalschool.com/ja/book-a-tour/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kais-high-school-open-house-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261119T110000
+DTEND;TZID=Asia/Tokyo:20261119T120000
+SUMMARY:[P2][OUTREACH] KAIS International School - High School Open House
+LOCATION:KAIS International School High School Campus\, Shinagawa\, Tokyo\, Japan
+DESCRIPTION:Category: International Schools / School Outreach / Tokyo\nPriority: P2\nMirai Minds significance: Direct account-intelligence opportunity with KAIS's high-school program and admissions team.\nAction: Parent-facing admissions event; contact school staff separately for professional outreach.\nMore information / source: https://kainternationalschool.com/ja/book-a-tour/
+URL:https://kainternationalschool.com/ja/book-a-tour/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cgk-es-ms-open-school-weekday-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261009T090000
+DTEND;TZID=Asia/Tokyo:20261009T110000
+RDATE;TZID=Asia/Tokyo:20261028T090000
+SUMMARY:[P2][OUTREACH] CGK International School - Elementary/Middle Open School
+LOCATION:CGK International School Kannai Campus\, Yokohama\, Kanagawa\, Japan
+DESCRIPTION:Category: International Schools / IB / School Outreach / Kanagawa\nPriority: P2\nMirai Minds significance: Strong geographic fit and useful benchmarking for inquiry-based/IB programming in Yokohama.\nAction: Parent-facing open school; use for account intelligence and separate professional outreach. Oct 9 is English; Oct 28 is Japanese.\nMore information / source: https://cgkis.com/es/admission/
+URL:https://cgkis.com/es/admission/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cgk-es-ms-open-school-weekend-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=Asia/Tokyo:20261108T090000
+DTEND;TZID=Asia/Tokyo:20261108T110000
+RDATE;TZID=Asia/Tokyo:20261108T143000
+SUMMARY:[P2][OUTREACH] CGK International School - Elementary/Middle Open School (Weekend)
+LOCATION:CGK International School Kannai Campus\, Yokohama\, Kanagawa\, Japan
+DESCRIPTION:Category: International Schools / IB / School Outreach / Kanagawa\nPriority: P2\nMirai Minds significance: Strong geographic fit and useful benchmarking for inquiry-based/IB programming in Yokohama.\nAction: Parent-facing event; use for account intelligence and separate professional outreach. Sessions are 09:00-11:00 and 14:30-16:30.\nMore information / source: https://cgkis.com/es/admission/
+URL:https://cgkis.com/es/admission/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ois-high-school-online-info-oct24-2026@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[P3][OUTREACH] Okinawa International School - High School Online Information Session
+LOCATION:Online
+DESCRIPTION:Category: International Schools / IB / School Outreach / Okinawa\nPriority: P3\nMirai Minds significance: Account intelligence on OIS high-school positioning and international education in Okinawa.\nAction: Family-facing Japanese-language session for Okinawa junior-high Grade 3 students; use as an outreach trigger rather than a sales event.\nMore information / source: https://ois.ac.jp/school-session/
+URL:https://ois.ac.jp/school-session/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aiesc-2027-tokyo@mirai-minds
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+SUMMARY:[P2][EDTECH+AI] AIESC 2027 - AI in Education & Smart Campus
+LOCATION:Musashino University Ariake Campus\, Tokyo\, Japan / Hybrid
+DESCRIPTION:Category: AI in Education / Smart Campus / EdTech / Research\nPriority: P2\nMirai Minds significance: Japan-hosted conference focused on LLMs\, generative AI\, intelligent agents and AI-enabled education; relevant to AI literacy and technology partnerships.\nAction: Monitor registration/program and attend selectively for AI-in-education intelligence.\nMore information / source: https://www.aiesc.tech/
+URL:https://www.aiesc.tech/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
